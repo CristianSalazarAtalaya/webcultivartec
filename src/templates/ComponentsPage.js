@@ -31,6 +31,7 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
+    {/*
     <section className="section">
       <div className="container">
         <Content source={section2} />
@@ -56,6 +57,7 @@ export const ComponentsPageTemplate = ({
         </Popup>
       </div>
     </section>
+    */}
   </main>
 )
 
