@@ -24,11 +24,18 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => (
-  <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-  </Layout>
-)
+const HomePage = function({ data: { page, mirame } }) {
+  console.log('mira')
+  console.log(mirame)
+  //var page = page
+  return (
+    <Layout meta={page.frontmatter.meta || false}>
+      <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+      {console.log('adasd')}
+      {console.log(page)}
+    </Layout>
+  )
+}
 
 export default HomePage
 
@@ -45,6 +52,13 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+      }
+    }
+    mirame: allSitePage {
+      edges {
+        node {
+          id
+        }
       }
     }
   }

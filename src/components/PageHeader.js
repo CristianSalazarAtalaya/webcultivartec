@@ -24,8 +24,9 @@ const PageHeader = ({
           size="cover"
         />
       )}
+
       <div className="container relative">
-        <h1 className="PageHeader--Title">{title}</h1>
+        <h1 className="slideOverlay_title">{title}</h1>
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}

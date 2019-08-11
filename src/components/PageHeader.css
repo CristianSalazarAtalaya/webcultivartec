@@ -5,7 +5,17 @@
 }
 
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 1;
+  background: -webkit-linear-gradient(
+    left,
+    rgba(75, 98, 105, 0.71) 0%,
+    rgba(16, 10, 28, 0.71) 100%
+  );
+  background: linear-gradient(
+    to right,
+    rgba(6, 33, 41, 0.71) 0%,
+    rgba(16, 10, 28, 0.71) 100%
+  );
 }
 
 .PageHeader-large {
@@ -20,6 +30,8 @@
 .PageHeader--Subtitle {
   font-weight: 400;
   font-size: 1.8rem;
+  text-align: center;
+  color: black !important;
 }
 
 .PageHeader .container {
@@ -33,4 +45,41 @@
   .PageHeader-large {
     padding: 12.5rem 0;
   }
+}
+
+.slideOverlay_title {
+  font-family: sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+  font-size: 35px;
+  background: -webkit-linear-gradient(295deg, #06e5de 0%, #aaffa9 100%);
+  background: linear-gradient(155deg, #06e5de 0%, #aaffa9 100%);
+  background-clip: text;
+  color: transparent;
+  -webkit-background-clip: text;
+  position: relative;
+  text-align: center;
+}
+.bounceIn {
+  opacity: 0;
+  -webkit-animation-duration: 0.8s;
+  animation-duration: 0.8s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+
+.placeHolder {
+  width: 100%;
+  visibility: hidden;
+  height: 100%;
+}
+::-webkit-input-placeholder {
+  color: #303843;
+  font-weight: 300;
 }

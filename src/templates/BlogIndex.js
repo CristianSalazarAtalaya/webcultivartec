@@ -63,11 +63,13 @@ export const BlogIndexTemplate = ({
 
       return (
         <main className="Blog">
+          {/*
           <PageHeader
             title={title}
             subtitle={subtitle}
             backgroundImage={featuredImage}
           />
+          */}
 
           {!!postCategories.length && (
             <section className="section thin">

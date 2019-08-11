@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: Cultivos
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+subtitle: Videos y cursos sobre tecnologia
 section1: >-
   ## This is a container component
 
@@ -39,13 +39,13 @@ accordion:
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
+    title: Diseño CSS
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
+    title: Aprovecha tus subscripciones a cursos online
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+    title: Aprende Expresiones regulares
 meta:
   description: This is a meta description.
   title: Components Page

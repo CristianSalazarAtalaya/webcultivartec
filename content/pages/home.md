@@ -1,30 +1,24 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Cultivartec
+featuredImage: 'images/slide1.jpg'
+subtitle: ' Bienvenido '
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Pagina de descripcion de cultivartec
+  title: Inicio
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# Mision
 
-# Features
+- Genear una gran cultura tecnologica en nuestro pais que permita desarrollar las ideas escalablemente en todos los ambitos.
+- Trasnformar digitalmente a las empresas mejorando su produtividad y competencia nacional e internacional
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+> Queremos mejorar la educacion tecnologoca en el Perú
 
-## Get started
+# Vision
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+- Ser la mas grande comunidad de cultura tecnologica
+- Ser la empresa referente para asesorias de transformacion tecnologica
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+> Queremos convertirnos en la referecia asociandonos con empresas que tengan la mision de hacer llegar la tecnologia a todos los rincones
