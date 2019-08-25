@@ -19,4 +19,4 @@ meta:
 
 - Ser la mas grande comunidad de cultura tecnologica
 
-> Queremos convertirnos en la refecnia de la comunidad tecnologica
+> Queremos convertirnos en la referencia de la comunidad tecnologica
