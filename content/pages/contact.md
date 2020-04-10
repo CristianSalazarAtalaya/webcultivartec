@@ -3,25 +3,25 @@ template: ContactPage
 slug: contact
 title: Contact Page
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+subtitle: Encantados de esucharte
+address: 'Lima-Lima'
+phone: 999 999 999
+email: hola@cultivartec.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Quieres comunicarte con nostros, por favor hazlo saber ya que estamos muy interesados en comunicarnos con personas interesadas en la tecnologia
+  title: Contactanos
 ---
 
-# Example contact form
+# Contactanos
 
-This form is setup to use Netlify's form handling:
+Si te gustaria comunicarte con nostros para alguna asesoria o simplemente para conversar escribenos:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+- Explica bien el motivo del contacto
+- Podrias suscribirte a nuestras actualizaciones
+- Damos lo mejor de nosotros para ustedes
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Nuestro canal de youtube [Cultivartec](https://www.youtube.com/channel/UC5A8So_YwrV-QQY2EJKe6fg).

@@ -37,22 +37,19 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: Persona viendo su servicio conectado a su dominio
-    image: 'images\youtube\conectar_servicio_gcp.jpg'
-    title: Conecta tu servicio con tu dominio
-  - alt: Persona viendo su servicio haciendo deploy en gcp
-    image: 'images\youtube\deploy_flask_gcp.jpg'
-    title: Deploy fask en Google cloud platform
-  - alt: Persona comprando su dominio perfecto
-    image: 'images\youtube\comprar_dominio_perfecto.jpg'
-    title: Como comprar el dominio perfecto
-  - alt: Patrones de expresions regulares
-    image: 'images\youtube\expresiones_regulares_javascript.jpg'
+  - alt: yellow rope image
+    image: 'images/slide1.jpg'
+    title: Diseño CSS
+  - alt: umbrellas
+    image: 'images/slide1.jpg'
+    title: Aprovecha tus subscripciones a cursos online
+  - alt: yellow ice cream
+    image: 'images/slide1.jpg'
     title: Aprende Expresiones regulares
-  - alt: Fondo sesgado
-    image: 'images\youtube\fondo_sesgado_fuente_responsiva.jpg'
-    title: Como hacer un fondo sesgado en CSS 
+  - alt: yellow ice cream
+    image: 'images/slide1.jpg'
+    title: Aprende Expresiones regulares
 meta:
-  description: Enlaces a videos de youtube.
-  title: Cultivos
+  description: This is a meta description.
+  title: Components Page
 ---

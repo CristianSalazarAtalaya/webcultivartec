@@ -3,8 +3,8 @@ template: BlogIndex
 slug: blog
 title: Blog
 featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+subtitle: Opiciones e información
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: En este espacio nos cominicamos contigo haciendote llegar todo nuestro conocimiento y opiniones
+  title: Blog
 ---

@@ -5,7 +5,7 @@ title: Cultivartec
 featuredImage: 'images/slide1.jpg'
 subtitle: ' Bienvenido '
 meta:
-  description: Pagina de descripcion de cultivartec
+  description: Cultura tecnologica, somos la Start-Up preocupada pro la culttura tecnologica que llevará la tecnologia y a transfomracion digital al siguiente nivel
   title: Inicio
 ---
 
