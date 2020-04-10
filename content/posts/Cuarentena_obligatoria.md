@@ -1,24 +1,24 @@
 ---
 template: SinglePost
-title: Cuarentena - la solucion a la pandemia
+title: Cuarentena - ¿La solucion a la pandemia?
 status: Published
 date: '2020-04-09'
 featuredImage: >-
-  https://www.roastbrief.com.mx/wp-content/uploads/2017/02/shutterstock_466500413-640x480.jpg
+  https://cultivartec.com/images/blog/news/cuarentena_obligatoria.png
 excerpt: >-
   La cuarentena nos ayudará a superar la crisis
 categories:
   - category: News
 meta:
   description: Inteligencia artificial, publicidad que nos persigue
-  title: Publicidad que nos persigue
+  title: Cuarentena por covid 19
 ---
 
-![Alt text](https://www.eltelegrafo.com.ec/media/k2/items/cache/c2cf3817ea75568114800451b46990d6_XL.jpg 'Publicidad')
+![Alt text](https://cultivartec.com/images/blog/news/cuarentena_obligatoria.png 'Cuarentena')
 
-### Publicidad, Inteligencia artificial y tiendas online
+### Un inicio "particular"
 
-Nos mantenemos todos los días bombardeados con publicidad ya sea en facebook, google, youtube, etc. En particular, facebook, si por ejemplo hoy sale el iphone Z entonces yo lo busco en google o en fb, incluso si lo comento en chats con amigos, la inteligencia artificial de las distintas redes, lo notará, por lo que me empezara a salir publicidad de diferentes tiendas online, como Amazon, Linio, AliExpress, etc. Incluso, no siempre es necesario este punto, ya que la inteligencia artificial también nos mostrará publicidad con la que nuestros amigos interactúan, o relacionadas a las cosas con las que interactuamos antes, por lo que esta nos la empieza a mostrar levemente, hasta que hacemos algunas interacción y en ese momento nos empieza bombardear con publicidad. Por lo tanto, inconscientemente nos están metiendo los productos por los ojos y en teoría nos están cómo obligando a comprarlos.
+Mientras el mundo seguia con su rumbo normal, por allá en fines del 2019 un rumor de una enfermedad se asomaba en las noticias de china y del mundo, como siempre en el resto del mundo no se le tomó la importancia necesaria, aunque si criticaron que ocultaran los datos de esta nueva enfermedad, mientras nadie se preapraba para ella.
 La solución, tenemos que buscar o interactuar solo con lo que nos hace falta…. bueno en primer lugar debemos definir y separar lo que queremos de lo que necesitamos.
 
 ### La psicología humana
