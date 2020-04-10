@@ -38,19 +38,19 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: Persona viendo su servicio conectado a su dominio
-    image: 'images\youtube\conectar_servicio_gcp.jpg'
+    image: 'https://cultivartec.com/images/youtube/conectar_servicio_gcp.jpg'
     title: Conecta tu servicio con tu dominio
   - alt: Persona viendo su servicio haciendo deploy en gcp
-    image: 'images\youtube\deploy_flask_gcp.jpg'
+    image: 'https://cultivartec.com/images/youtube/deploy_flask_gcp.jpg'
     title: Deploy fask en Google cloud platform
   - alt: Persona comprando su dominio perfecto
-    image: 'images\youtube\comprar_dominio_perfecto.jpg'
+    image: 'https://cultivartec.com/images/youtube/comprar_dominio_perfecto.jpg'
     title: Como comprar el dominio perfecto
   - alt: Patrones de expresions regulares
-    image: 'images\youtube\expresiones_regulares_javascript.jpg'
+    image: 'https://cultivartec.com/images/youtube/expresiones_regulares_javascript.jpg'
     title: Aprende Expresiones regulares
   - alt: Fondo sesgado
-    image: 'images\youtube\fondo_sesgado_fuente_responsiva.jpg'
+    image: 'https://cultivartec.com/images/youtube/fondo_sesgado_fuente_responsiva.jpg'
     title: Como hacer un fondo sesgado en CSS 
 meta:
   description: Enlaces a videos de youtube.
