@@ -4,7 +4,7 @@ title: El consumismo ¿Porque vemos lo que nos interesa en todos sitios?
 status: Published
 date: '2019-08-11'
 featuredImage: >-
-  https://www.roastbrief.com.mx/wp-content/uploads/2017/02/shutterstock_466500413-640x480.jpg
+  https://cultivartec.com/images/blog/news/Consumismo_publicidad_portada.jpg 
 excerpt: >-
   Nos mantenemos todos los días bombardeados con publicidad ya sea en facebook, google, youtube, etc. En particular, facebook, si por ejemplo hoy sale el iphone Z entonces yo lo busco en google o en fb, incluso si lo comento en chats con amigos, la inteligencia artificial de las distintas redes, lo notará, por lo que me empezara a salir publicidad de diferentes tiendas online, como Amazon, Linio, AliExpress, etc.
 categories:
@@ -14,7 +14,7 @@ meta:
   title: Publicidad que nos persigue
 ---
 
-![Alt text](https://www.eltelegrafo.com.ec/media/k2/items/cache/c2cf3817ea75568114800451b46990d6_XL.jpg 'Publicidad')
+![Alt text](https://cultivartec.com/images/blog/news/Consumismo_publicidad_portada_recurso1.jpg 'Publicidad')
 
 ### Publicidad, Inteligencia artificial y tiendas online
 

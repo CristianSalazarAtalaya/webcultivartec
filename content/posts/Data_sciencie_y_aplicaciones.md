@@ -4,11 +4,11 @@ title: Data science - ¿Qué es la Ciencia de Datos y Cuáles son sus aplicacion
 status: Published
 date: '2020-04-09'
 featuredImage: >-
-  https://cultivartec.com/images/blog/machine_learnig/Data_sciencie_y_aplicaciones_portada.png
+  https://cultivartec.com/images/blog/machine_learnig/Data_sciencie_y_aplicaciones_portada.jpeg
 excerpt: >-
   Cada negocio genera una enorme cantidad de datos que incluye inventario, ventas, marketing y demás; o los datos generamos diariamente en las redes sociales, las horas de vídeo en YouTube, los datos que producimos con nuestros Smartphone y las tantas páginas que rondan en la Internet. Estos datos tienen un gran valor que no se aprovecha, pero que está latente. Existen muchos patrones o tendencias sin descubrir; si estos patrones llegan a ser reconocidos y comprendidos agregarían un enorme valor para las industrias. ¿Quieres saber cómo se hace frente a esta situación actualmente? ¡Vamos a ello!
 categories:
-  - category: machine_learnig
+  - category: Inteligencia artificial
 meta:
   description: Cada negocio genera una enorme cantidad de datos que incluye inventario, ventas, marketing y demás; o los datos generamos diariamente en las redes sociales, las horas de vídeo en YouTube, los datos que producimos con nuestros Smartphone y las tantas páginas que rondan en la Internet. Estos datos tienen un gran valor que no se aprovecha, pero que está latente. Existen muchos patrones o tendencias sin descubrir; si estos patrones llegan a ser reconocidos y comprendidos agregarían un enorme valor para las industrias. ¿Quieres saber cómo se hace frente a esta situación actualmente?
   title: Data science - ¿Qué es la Ciencia de Datos y Cuáles son sus aplicaciones?
