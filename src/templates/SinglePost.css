@@ -25,7 +25,8 @@
 
 .SinglePost--Content {
   background: white;
-  padding: 8rem 8rem 4rem 8rem;
+  /*padding: 8rem 8rem 4rem 8rem;*/
+  padding: 8rem 0rem 4rem;
 }
 
 @media screen and (max-width: 750px) {
