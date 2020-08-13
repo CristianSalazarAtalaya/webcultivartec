@@ -14,43 +14,6 @@ meta:
   title: Los Principales Roles en un Equipo de Ciencia de Datos en el 2020
 ---
 
-# Los Principales Roles en un Equipo de Ciencia de Datos en el 2020
-
-> PROCESOS EN UN PROYECTO DE CIENCIA DE DATOS
-
-```mermaid
-	graph TB
-
-	subgraph INTERPRETACIÓN
-	an2[Analista de negocio] --- cd5[Científico de datos]
-	end
-
-	subgraph IMPLEMENTACIÓN
-	iml2[Ingeniero de ML] --- cd4[Científico de datos]
-	end
-
-	subgraph MODELADO
-	cd3[Científico de datos] --- iml1[Ingeniero de ML]
-	end
-
-	subgraph EXPLORACIÓN
-	ad2[Analista de datos] --- cd2[Científico de datos]
-	end
-
-	subgraph OBTENER
-	ad1[Analista de datos] --- id2[Ingeniero de datos]
-	end
-
-	subgraph LIMPIEZA
-	id1[Ingeniero de datos] --- abd[Administrador <br> de base de datos]
-	end
-
-	subgraph CASO DE NEGOCIO
-	cd1[Científico de datos] --- an1[Analista de negocio]
-	end
-
-```
-
 **¿Alguna ves has pensado en quienes son parte de un proyecto de datos?**
 Quizá puedas pensar que para analizar la información empresarial solo están los analista de datos y el administrador de base de datos, o peor aún, si has sido uno de los bombardeados con publicaciones sobre **Científico de datos (Data Scientist)** pensarás que ahora ellos son los que manejan este tipo de proyectos. Pero no es tan así que digamos. `El avance de la tecnología y` sobre todo, `de las necesidades de las organizaciones, ha generado que los profesionales de tecnología se especialicen.`
 
@@ -112,4 +75,4 @@ Trabajan en conjunto con el **Analista de datos y Científico de datos** para co
 
 Hay organizaciones que quieren «sumarse a la tendencia» de tener **Científicos de datos** entre su nómina, esperando que incrementen su valor, pero ¿adivina que? **NO ES TAN SIMPLE** como contratar sólo a un grupo de **Científico de datos** para hacer todas las tareas que involucra un proyecto. Teniendo en cuenta que cada proyecto tendrá un impacto en la forma en cómo la organización se desarrolla, ya sea mejorar un producto/servicio, o cambiar sus esfuerzos de marketing al entender mejor a su cliente. `Se requiere de la experiencia y habilidad de todos los profesionales de datos` mencionados lineas arriba para obtener resultados relevantes y que sean efectivos para satisfacer los objetivos de la organización.
 
-Para que quede claro, veamos a un **equipo de datos** como una **brigada de cocina**, `aunque el **Chef principal** sepa los diferentes procesos que involucra preparar un platillo` **(producto de datos)**, ya sea como adquirir los ingredientes a utilizar **(Ingeniero de datos)**, sepa de que forma y en qué condiciones estas especies deben ser almacenadas **(Administrados de base de datos)** o sepa realizar la preparación de ciertos platillos **(Analista de datos)** el `aún depende de los otros miembros de la cocina para que los platillos sean preparados`, así como del mesero **(Analista de negocio)** quien recibe las ordenes y sirve los platillos a los clientes **(la organización)**.
+Para que quede claro, veamos a un **equipo de datos** como una **brigada de cocina**, `aunque el` **Chef principal** `sepa los diferentes procesos que involucra preparar un platillo` **(producto de datos)**, ya sea como adquirir los ingredientes a utilizar **(Ingeniero de datos)**, sepa de que forma y en qué condiciones estas especies deben ser almacenadas **(Administrados de base de datos)** o sepa realizar la preparación de ciertos platillos **(Analista de datos)** el `aún depende de los otros miembros de la cocina para que los platillos sean preparados`, así como del mesero **(Analista de negocio)** quien recibe las ordenes y sirve los platillos a los clientes **(la organización)**.
