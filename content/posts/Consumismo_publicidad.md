@@ -10,7 +10,7 @@ excerpt: >-
 categories:
   - category: News
 meta:
-  description: Inteligencia artificial, publicidad que nos persigue
+  description: Ciencia de datos, publicidad que nos persigue
   title: Publicidad que nos persigue
 ---
 
