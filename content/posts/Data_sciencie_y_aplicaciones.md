@@ -1,19 +1,19 @@
 ---
 template: SinglePost
-title: Data science - ¿Qué es la Ciencia de Datos y Cuáles son sus aplicaciones?
+title: ¿Qué es la Ciencia de Datos y Cuáles son sus aplicaciones?
 status: Published
 date: '2020-04-09'
 featuredImage: >-
-  https://cultivartec.com/images/blog/machine_learnig/Data_sciencie_y_aplicaciones_portada.jpeg
+  https://cultivartec.com/images/blog/machine_learnig/ciencia-de-datos.jpg
 excerpt: >-
   Cada negocio genera una enorme cantidad de datos que incluye inventario, ventas, marketing y demás; o los datos generamos diariamente en las redes sociales, las horas de vídeo en YouTube, los datos que producimos con nuestros Smartphone y las tantas páginas que rondan en la Internet. Estos datos tienen un gran valor que no se aprovecha, pero que está latente. Existen muchos patrones o tendencias sin descubrir; si estos patrones llegan a ser reconocidos y comprendidos agregarían un enorme valor para las industrias. ¿Quieres saber cómo se hace frente a esta situación actualmente? ¡Vamos a ello!
 categories:
-  - category: Inteligencia artificial
+  - category: Ciencia de datos
 meta:
   description: Cada negocio genera una enorme cantidad de datos que incluye inventario, ventas, marketing y demás; o los datos generamos diariamente en las redes sociales, las horas de vídeo en YouTube, los datos que producimos con nuestros Smartphone y las tantas páginas que rondan en la Internet. Estos datos tienen un gran valor que no se aprovecha, pero que está latente. Existen muchos patrones o tendencias sin descubrir; si estos patrones llegan a ser reconocidos y comprendidos agregarían un enorme valor para las industrias. ¿Quieres saber cómo se hace frente a esta situación actualmente?
-  title: Data science - ¿Qué es la Ciencia de Datos y Cuáles son sus aplicaciones?
+  title: ¿Qué es la Ciencia de Datos y Cuáles son sus aplicaciones?
 ---
-
+![Alt text](https://cultivartec.com/images/blog/machine_learnig/ciencia-de-datos.jpg 'Ciencia de datos')
 
 Cada negocio genera una enorme cantidad de datos que incluye inventario, ventas, marketing y demás; o los datos generamos diariamente en las redes sociales, las horas de vídeo en YouTube, los datos que producimos con nuestros Smartphone y las tantas páginas que rondan en la Internet. Estos datos tienen un gran valor que no se aprovecha, pero que está latente. Existen muchos patrones o tendencias sin descubrir; si estos patrones llegan a ser reconocidos y comprendidos agregarían un enorme valor para las industrias. ¿Quieres saber cómo se hace frente a esta situación actualmente? ¡Vamos a ello!
 
@@ -28,9 +28,9 @@ La ciencia de datos es un tema de discusión tan amplio que es prácticamente im
 Para obtener una mejor comprensión de cómo encaja todo, echemos un vistazo a este diagrama de Venn.
 
 
-![Alt text](https://cultivartec.com/images/blog/machine_learnig/Data_sciencie_y_aplicaciones.png 'DataSciencie')
+![Alt text](https://cultivartec.com/images/blog/machine_learnig/Data_sciencie_y_aplicaciones.png 'Diagrama de Venn de Ciencia de datos')
 
-Fuente: Steven Geringer Raleigh
+*Fuente: Steven Geringer Raleigh*
 
 ## Casos de uso aplicados actualmente
 
@@ -64,8 +64,7 @@ Un científico de datos es capaz de, a partir de un problema de negocio, poder t
 El futuro pertenece a las empresas que encuentran la manera de recoger y utilizar los datos exitosamente. **Google, Amazon, Facebook, Netflix y LinkedIn** han aprovechado sus datos y este hecho es el núcleo de su éxito. estaban a la vanguardia, pero ahora incluso las pequeñas empresas están siguiendo su camino. Ya sea con **minería de datos** de redes sociales, **machine learning** para recomendar productos basados en tu historial de compras o la detección de fraudes electrónicos, ya que tienen muy en claro que la próxima generación de empresas de éxito se construye alrededor de datos.
 
 ### Para finalizar
-Como ves, ser científico de datos se ha convertido en una de las profesiones más interesantes y prometedoras desde ya hacia el futuro, Y tú ¿crees que la ciencia de datos impactará al futuro cercano? Cuéntame aquí debajo en la sección de comentarios. Si te gustó, no olvides compartirlo para llegar a más personas. ¡Nos vemos la próxima semana! aquí en: Cultivartec, ¡aprendiendo juntos!
-
+Como ves, ser científico de datos se ha convertido en una de las profesiones más interesantes y prometedoras desde ya hacia el futuro, Y tú ¿crees que la ciencia de datos impactará al futuro cercano? Cuéntame aquí debajo en la sección de comentarios. Si te gustó, no olvides compartirlo para llegar a más personas. Cultivartec, aprendiendo juntos.
 
 ---
 
