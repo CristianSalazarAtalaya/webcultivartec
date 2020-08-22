@@ -8,7 +8,7 @@ featuredImage: >-
 excerpt: >-
   Los proyectos de hoy en día lidian con datos y necesidades que `se han vuelto lo suficientemente complejos para usar los mismos roles de antes`, por ello es que hay más profesionales con habilidades especializadas para cubrir todo ciclo del proyecto. Sin embargo, es necesario notar que son muchos los profesionales que se involucran para obtener un producto de datos relevante para la organización.
 categories:
-  - category: Inteligencia artificial
+  - category: Ciencia de datos
 meta:
   description: Los proyectos de hoy en día lidian con datos y necesidades que `se han vuelto lo suficientemente complejos para usar los mismos roles de antes`, por ello es que hay más profesionales con habilidades especializadas para cubrir todo ciclo del proyecto. Sin embargo, es necesario notar que son muchos los profesionales que se involucran para obtener un producto de datos relevante para la organización.
   title: Los Principales Roles en un Equipo de Ciencia de Datos en el 2020
