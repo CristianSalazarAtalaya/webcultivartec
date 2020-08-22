@@ -4,7 +4,7 @@ title: El consumismo ¿Porque vemos lo que nos interesa en cualquier lugar que v
 status: Published
 date: '2020-06-11'
 featuredImage: >-
-  https://cultivartec.com/images/blog/news/publicidad-remarketing.jpg
+  https://cultivartec.com/images/blog/news/remarketing.jpg
 excerpt: >-
   Nos mantenemos todos los días bombardeados con publicidad ya sea en facebook, google, youtube, etc. En particular, facebook, si por ejemplo hoy sale el iphone Z entonces yo lo busco en google o en fb, incluso si lo comento en chats con amigos, la inteligencia artificial de las distintas redes, lo notará, por lo que me empezara a salir publicidad de diferentes tiendas online, como Amazon, Linio, AliExpress, etc.
 categories:
@@ -14,7 +14,7 @@ meta:
   title: ¿Porque vemos lo que nos interesa en cualquier lugar que visitemos?
 ---
 
-![Alt text](https://cultivartec.com/images/blog/news/publicidad-remarketing.jpg 'Publicidad, Remarketing')
+![Alt text](https://cultivartec.com/images/blog/news/remarketing.jpg 'Publicidad, Remarketing')
 
 ### Publicidad, Inteligencia artificial y Remarketing
 Nos mantenemos todos los días bombardeados con publicidad ya sea en facebook, google, youtube, etc. En particular, facebook, si por ejemplo hoy sale el iphone Z entonces yo lo busco en google o en fb, incluso si lo comento en chats con amigos, la inteligencia artificial de las distintas redes, lo notará, por lo que me empezara a salir publicidad de diferentes tiendas online, como Amazon, Linio, AliExpress, etc. Incluso, no siempre es necesario este punto, ya que la inteligencia artificial también nos mostrará publicidad con la que nuestros amigos interactúan, o relacionadas a las cosas con las que interactuamos antes, por lo que esta nos la empieza a mostrar levemente, hasta que hacemos algunas interacción y en ese momento nos empieza bombardear con publicidad. Por lo tanto, inconscientemente nos están metiendo los productos por los ojos y en teoría nos están cómo obligando a comprarlos.
