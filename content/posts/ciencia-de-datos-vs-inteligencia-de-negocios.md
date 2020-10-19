@@ -19,7 +19,6 @@ meta:
 
 <span>Photo by <a href="https://unsplash.com/@behz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Behzad Ghaffarian</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-* Table of contents
 
 1. TOC
 {:toc}
